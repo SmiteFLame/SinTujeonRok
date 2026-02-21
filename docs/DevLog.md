@@ -76,9 +76,11 @@ GitHub Issues에 8개 이슈 등록:
 - [ ] 패 종류(8종)별로 개별 등급/서브패를 두면 패 다양성이 크게 향상될 것 → 이슈 #3에서 반영 완료
 
 ### 산출물
-- `docs/GDD.md` - 게임 기획서 (v0.2)
-- `docs/CoreGameLoop.md` - 핵심 게임 루프 설계 (v0.2)
-- `docs/CardSystem.md` - 패 시스템 설계 (v0.3)
+- `docs/01_GDD.md` - #1 게임 기획서 (v0.2)
+- `docs/02_CoreGameLoop.md` - #2 핵심 게임 루프 설계 (v0.2)
+- `docs/03_CardSystem.md` - #3 패 시스템 설계 (v0.3)
+- `docs/04_BattleSystem.md` - #4 패결 시스템 설계 (v0.1)
+- `docs/05_IdleReward.md` - #5 방치형 보상 설계 (v0.1)
 - `docs/Terminology.md` - 용어 사전 (v0.1)
 - `docs/DevLog.md` - 개발 로그 (본 파일)
 
